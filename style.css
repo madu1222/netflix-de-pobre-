@@ -1,30 +1,29 @@
 body {
-    background-color: rgb(145, 223, 203);
-    color:rgb(0, 0, 0);
+    background-color: rgb(223, 145, 219);
+    color: rgb(0, 0, 0);
 
-    font-family: "Roboto Mono", monospace;
+
+    color: rgb(0, 0, 0);
+
+    font-family: "Fugaz One", sans-serif;
+    margin: 0px;
 }
-color: rgb(255, 229, 248);
 
-font-family: "Fugaz One", sans-serif;
-margin: 0px;
-
-}
 
 header {
-font-size: 50px;
-text-align: center;
-border-bottom:dashed 5px rgb(129, 4, 247);
-padding: 30px;
-color: rgb(231, 31, 231);
+    font-size: 50px;
+    text-align: center;
+    border-bottom: dashed 5px rgb(255, 255, 255);
+    padding: 30px;
+    color: rgb(0, 0, 0);
 }
 
 h1 {
-font-size: 30px;
-padding-left: 30px;
+    font-size: 30px;
+    padding-left: 30px;
 }
 
 p {
-font-size: 20px;
-padding-left: 30px;
+    font-size: 20px;
+    padding-left: 30px;
 }
