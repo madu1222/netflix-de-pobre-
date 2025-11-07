@@ -27,3 +27,11 @@ p {
     font-size: 20px;
     padding-left: 30px;
 }
+
+section{
+    background-color: rgb(206, 95, 187);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex
+    justify-content:center;
+}
